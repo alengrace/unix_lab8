@@ -1,0 +1,6 @@
+Script started on 2020-06-23 19:33:09+0530
+]0;u1@alen-HP-Pavilion-g6-Notebook-PC: ~/Desktop/Unix/Unix_Lab8[01;32mu1@alen-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/Desktop/Unix/Unix_Lab8[00m$ [K]0;u1@alen-HP-Pavilion-g6-Notebook-PC: ~/Desktop/Unix/Unix_Lab8[01;32mu1@alen-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/Desktop/Unix/Unix_Lab8[00m$ exit[2Plsscript exitexit scriptscript exitls[Kexit[2Plsscript exitexit script unix_lab8.txt
+exit
+bash: exit: script: numeric argument required
+
+Script done on 2020-06-23 19:33:36+0530
